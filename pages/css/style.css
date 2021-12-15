@@ -1,0 +1,168 @@
+.body{
+    background-color:#f9f8f8;
+    font-family: 'Montserrat', sans-serif;
+}
+/*MENU, LOGO E BANNER*/
+.topo{
+    top:0%;
+    width:100%;
+    background-color:white;
+    
+}
+.topo img{
+  width:15%;
+  height:118px;
+  margin-left:520px;
+  margin-top:-13px;
+}
+.lista a{
+    list-style:none;
+    color:black;
+    text-decoration:none;
+}
+.menu #lista{
+    margin-left:30px;
+}
+#lista a{
+  margin-left:30px;
+  display:inline-block;
+  margin-top:10px;
+}
+#lista a:hover{
+    color:#000000;
+}
+#banner{
+    width:1900px;
+    height:500px;
+    margin-left:-15px;
+}
+#fotoGiovanna{
+    margin-left:500px;
+    margin-top:-500px;
+}
+
+
+/*MAIN:ABOUT,JOB,PORTFOLIO E TECHNOLOGIES*/
+
+/**/
+.about {
+    text-align:center;
+    font-size:18px;
+    margin-top:28px;
+    line-height:15px;
+}
+.about h3{
+    line-height:100px;
+    margin-top:10px;
+    font-weight:bold;
+}
+.about p{
+    margin-top:-13px;
+    line-height:50px;
+}
+.about h1{
+    font-size:32px;
+
+}
+.about span{
+    font-size:20px;
+    color:purple;
+}
+
+
+/**/
+.job{
+    margin-top:70px;
+}
+.job p{
+  line-height:32px;
+  font-size:16px;
+  text-align:center;
+}
+#textoJob{
+    margin-top:50px;
+}
+.job h3{
+    margin-left:25px;
+    font-size:27px;
+    margin-top:100px;
+    text-align:center;
+}
+.img-fluid{
+    max-width: 100%;
+     height: auto;
+}
+#fotoProgramacao{
+    margin-left:500px;
+    margin-top:40px;
+}
+#fotoProgramacao:hover{
+    opacity:90%;
+}
+
+.portfolio{
+    margin-top:180px;
+    margin-left:100px;
+}
+.portfolio h3{
+    font-size:27px;
+    text-align:center;
+    margin-left:-300px;
+}
+.portfolio img{
+    margin-top:30px;
+}
+.portfolio img:hover{
+    opacity:90%;
+}
+
+/*tecnologias*/
+
+.tecnologias{
+    background-color:#FFFFFF;
+    height:240px;
+    text-align:center;
+    margin-top:130px;
+    align:left;
+    font-size:29px;
+    padding-left:1px;
+}
+.tecnologias h3{
+    padding-top:15px;
+}
+.imgTecnologias{
+    margin-top:25px;
+}
+.imgTecnologias:hover{
+    opacity:70%;
+}
+
+
+
+
+/*FOOTER:CONTACT*/
+
+/**/
+
+.contato{
+    background-color:purple;
+    height:170px;
+    text-align:center;
+
+}
+.contato h3{
+    padding-top:20px;
+    color:#FFFFFF;
+    font-size:23px;
+}
+.contato img{
+    margin-top:40px;
+    text-align:center;
+}
+.contato p{
+    margin-top:9px;
+    color:#FFFFFF;
+}
+.imagensContato:hover{
+    opacity:70%;
+}
