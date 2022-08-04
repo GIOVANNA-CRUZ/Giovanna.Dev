@@ -3,8 +3,13 @@
 <h2>Description and Funcionalities :books:</h2>
 
 My professional website, where I tell my knowledge and what I basically do. HTML and CSS.
-This site was made with html and css and is very simple, just a portfolio to show who i am.There's the part of who I am, my portfolios and technologies that I know how to use.
-There are only two files, the HTML where the entire body of the site is and the CSS, where all the styling of the page is.
+This site was made with html and css and is very simple, just a portfolio to show who i am.There's the part of who I am, my portfolios and technologies that I know how to use. The technologies used were:
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+
+</ul>
 
 <h2>How to use :books:</h2>
 
